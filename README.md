@@ -57,7 +57,6 @@ The program prompts the user to enter an IP address. It then displays the obfusc
 Original IP: 192.168.0.1
 ```
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/ipobish/count.svg)
 
-
-This program is written in Go.
 
